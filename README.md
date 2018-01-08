@@ -1,6 +1,8 @@
 # Instructions to run project 
 navigate to server file and  
+
 > npm install  
+
 > npm install -g graphcool-framework  
 Create the file structure for the backend in a directory called `server`:  
 > graphcool-framework init server  
